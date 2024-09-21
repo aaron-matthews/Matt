@@ -1,3 +1,4 @@
 echo
 echo this is Alpha
 echo Hi Rosy
+HI alpha
